@@ -1,0 +1,4 @@
+com/poc/controller/KafkaBackendController.class
+com/poc/model/CredentialsDTO.class
+com/poc/config/WebClientConfig.class
+com/poc/KafkaBackendApplication.class

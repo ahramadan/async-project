@@ -1,0 +1,5 @@
+com/poc/controller/AsyncController.class
+com/poc/model/CredentialsDTO.class
+com/poc/service/AsyncService.class
+com/poc/config/WebClientConfig.class
+com/poc/AsyncApplication.class
